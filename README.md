@@ -28,7 +28,7 @@
 
 
 
-
+<br/><br/>
 
 <h1 align="center">Languages and Tools 💻</h1>  
   
@@ -53,7 +53,7 @@
 
   </div>
 <hr/>
-<br/>
+
 <div display="flex">
  
   <h1 align="center">Connect with me:</h1>

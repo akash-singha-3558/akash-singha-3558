@@ -1,10 +1,14 @@
 
+
+<h1 align="center">Hey 👋, I'm<a href="https://github.com/akash-singha-3558/"> Akash Singha</a></h1> 
+
+### Hello Developer Welcome to my Github! &nbsp; <br/>
+A tech-enthusiast, with 1000+ hours of hands-on
+coding & project experience in developing websites and has a robust problem-solving mindset which
+enables him to improve the performance, scalability,
+and reliability of any project thrown at him.
+
 <img align="right" alt="codding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
-
-
-
-
-
 
 
 # About Me
@@ -15,7 +19,7 @@
 
 - 📫 How to reach me- 📧-akashsingha3558@gmail.com 📌[Linkedin](https://www.linkedin.com/in/akash-singha-b62992213/)
 
-- 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/1pRmYvib37ALHPrSjGKt6d6_XgbQEERK3/view?usp=sharing)
+- 📄  To see my -[Resume](https://drive.google.com/file/d/1pRmYvib37ALHPrSjGKt6d6_XgbQEERK3/view?usp=sharing)
 
 <br>
 

@@ -13,6 +13,27 @@
 
 - ⚡ Fun fact **I think that I can become a standup comedian**
 
+
+# About Me
+
+- 🌱 I’m currently learning **MERN Stack, At Masai School**
+
+- 👨‍💻 All of my projects are available at- 📑[Portfolio]([https://akash-singha-3558.github.io/])
+
+- 📫 How to reach me- 📧-akashsingha3558@gmail.com 📌[Linkedin](https://www.linkedin.com/in/akash-singha-b62992213/)
+
+- 📄 Know about my experiences-[Resume](https://drive.google.com/file/d/1pRmYvib37ALHPrSjGKt6d6_XgbQEERK3/view?usp=sharing)
+<br>
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-singha-b62992213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-singha-b62992213" height="30" width="40" /></a>

@@ -63,9 +63,17 @@ and reliability of any project thrown at him.
   <h1 align="center">Connect with me:</h1>
  
  </div>
- <p align="center">
-<a href="https://linkedin.com/in/akash-singha-b62992213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-singha-b62992213" height="30" width="40" /></a>
-</p>
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/akash-singha-b62992213/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/akash-singha-3558">
+    <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://akash-singha-3558.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Codecov&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 
 <div align="center" >
   <h1 align='center'>

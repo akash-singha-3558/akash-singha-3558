@@ -28,13 +28,40 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+<h1 align="center">Languages and Tools 💻</h1>  
+  
+  <div align="center">
+    <img width="56" height="56" src="https://user-images.githubusercontent.com/112663758/210388665-9ed02ede-ad9e-459d-85be-5e34641130d4.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388688-e847fdea-bb47-40ad-a6be-fc625e9ab187.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388778-02df2a2b-a44f-40d0-9437-05d3a10a04c7.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388813-f37ef023-fcf4-4b9d-8989-bde12cb74779.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388831-ff19931d-6ce2-4caa-8bfe-8f024e0a0c73.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388864-fe20b1d5-d312-4c12-8cf1-3dfeb1c0e0a2.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388883-2d8b811d-2909-4773-95a8-6c204d801a13.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388907-1bd52beb-3f7a-42db-ab89-8b427301a027.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388937-e16fb26c-6b1e-418f-8b0d-98441e4f1b52.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210388974-9c55cfd5-a69d-409a-a8b8-57980f3891ae.png"/>
+   <br/>
+   <br/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210389007-0171ec21-0dbf-43c8-8154-d14db567ba54.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210389035-15192d4f-4af8-4759-8497-35fa485cf653.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210389060-056bd8ca-c4ec-48b8-a05f-93de5194a436.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210389100-d9c520fc-3dbc-4a75-a567-09fb89111f10.png"/>
+    <img width="64" height="64" src="https://user-images.githubusercontent.com/112663758/210389136-2a70e1c8-bff4-4439-884f-4221eb3ce48b.png"/>
+
+  </div>
+<hr/>
+<br/>
+<div display="flex">
+ 
+  <h1 align="center">Connect with me:</h1>
+ 
+ </div>
+ <p align="center">
 <a href="https://linkedin.com/in/akash-singha-b62992213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-singha-b62992213" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <div align="center" >
   <h1 align='center'>

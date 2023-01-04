@@ -1,4 +1,5 @@
 
+![GithubBanner](https://user-images.githubusercontent.com/112806398/210500408-ec30faa6-8989-47c6-8183-b2974242fbac.gif)
 
 <h1 align="center">Hey 👋, I'm<a href="https://github.com/akash-singha-3558/"> Akash Singha</a></h1> 
 

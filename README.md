@@ -17,12 +17,14 @@ and reliability of any project assigned him.
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 👨‍💻 All of my projects are available at- 📑[Portfolio]([https://akash-singha-3558.github.io/])
+- 👨‍💻 All of my projects are available at- <a href="https://akash-singha-3558.github.io/"> 📑[Portfolio]([https://akash-singha-3558.github.io/])</a>
 
 - 📫 How to reach me- 📧-akashsingha3558@gmail.com 📌[Linkedin](https://www.linkedin.com/in/akash-singha-b62992213/)
 
 - 📄  To see my -[Resume](https://drive.google.com/file/d/1pRmYvib37ALHPrSjGKt6d6_XgbQEERK3/view?usp=sharing)
-
+- How to connect me    <a href="https://www.linkedin.com/in/akash-singha-b62992213/">
+    Linkedin
+  </a>
 <br>
 
 

@@ -23,7 +23,7 @@ and reliability of any project assigned him.
 
 - 📄  To see my -[Resume](https://drive.google.com/file/d/1pRmYvib37ALHPrSjGKt6d6_XgbQEERK3/view?usp=sharing)
 - How to connect me    <a href="https://www.linkedin.com/in/akash-singha-b62992213/">
-    Linkedin
+    -Linkedin
   </a>
 <br>
 

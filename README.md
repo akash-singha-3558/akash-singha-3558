@@ -15,7 +15,7 @@ and reliability of any project assigned him.
 
 # About Me
 
-- 🌱 I’m currently working as a trainee software engineer at 1985
+- 🌱 I’m currently working as a software engineer at 1985 Software Solutions (1985.co.in)
 
 - 👨‍💻 All of my projects are available at- <a href="https://akash-singha-3558.github.io/"> 📑[Portfolio]([https://akash-singha-3558.github.io/])</a>
 

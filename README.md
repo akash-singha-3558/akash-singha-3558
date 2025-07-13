@@ -18,7 +18,7 @@ and the reliability of any project assigned to  him.
 - 🌱 I’m currently working as a software engineer at 1985 Software Solutions (1985.co.in)
 
 
-- 📫 How to reach me- 📧-akashsingha3558@gmail.com 📌[Linkedin](https://www.linkedin.com/in/akash-singha-b62992213/)
+- 📫 How to reach me- 📌[Linkedin](https://www.linkedin.com/in/akash-singha-b62992213/)
 
 - How to connect me    <a href="https://www.linkedin.com/in/akash-singha-b62992213/">
     -Linkedin

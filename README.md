@@ -3,11 +3,14 @@
 
 <h1 align="center">Hey 👋, I'm<a href="https://github.com/akash-singha-3558/"> Akash Singha</a></h1> 
 
-### Hello Developer, Welcome to my Github! &nbsp; <br/>
-A tech-enthusiast, with 1000+ hours of hands-on
-coding & project experience in developing websites, and has a robust problem-solving mindset which
-enables him to improve the performance, scalability,
-and the reliability of any project assigned to  him.
+### Hello Developer, Welcome to my GitHub! &nbsp; <br/>
+It's a pleasure to meet you. Currently, I am employed as a software engineer at 1985 Software Solutions, where I am one of the key developers contributing to a live SaaS project. My responsibilities include improving performance, creating new features based on client requirements, and resolving bugs to enhance the quality of the product. I actively engage with clients to ensure their expectations are met through weekly team meetings and innovate based on client feedback and concerns.
+
+Previously, as a full-stack web developer, I accumulated over 1000 hours of hands-on coding experience, with a further 300 hours dedicated to data structures and algorithms, and 100 hours honing my soft skills. During my time at Masai, a practical-based coding school with a military-style curriculum spanning 11-11-6 over eight months, I demonstrated my unwavering discipline and passion for web development. 
+
+Throughout this rigorous curriculum, I built over 50 mini-projects and 5 major projects (including 2 individual and 3 group projects), I gained valuable insights into the internal structure of real-life full-stack web applications, as well as the nuances of remote collaboration, teamwork, planning, and the importance of effective communication within a team. 
+
+I am eager to apply my experience, skills, and learning to contribute to your project while continuing to grow and learn.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-singha-3558&label=Profile%20views&color=0e75b6&style=flat" alt="akash-singha-3558" /> </p>
 <img align="right" alt="codding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>

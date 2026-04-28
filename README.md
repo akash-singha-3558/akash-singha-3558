@@ -9,7 +9,7 @@
 <h3 align="center">Hello Developer, Welcome to my GitHub!</h3>
 
 <p align="center">
-It's a pleasure to meet you. Currently, I am employed as a software engineer at 1985 Software Solutions, where I am one of the key developers contributing to a live SaaS project.
+It's a pleasure to meet you. Currently, I am employed as a software engineer at 1985 Web Solutions, where I am one of the key developers contributing to a live SaaS project.
 </p>
 
 <p align="center">

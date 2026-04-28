@@ -40,7 +40,7 @@ I am eager to apply my skills and continue growing while contributing to impactf
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently working as a software engineer at **1985 Software Solutions (1985.co.in)**
+- 🌱 I’m currently working as a software engineer at **1985 Web Solutions (1985.co.in)**
 - 📫 How to reach me:  
   📌 <a href="https://www.linkedin.com/in/akash-singha-b62992213/">LinkedIn</a>
 

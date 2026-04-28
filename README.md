@@ -8,27 +8,27 @@
 
 <h3 align="center">Hello Developer, Welcome to my GitHub!</h3>
 
-<p align="center">
+<p align="left">
 It's a pleasure to meet you. Currently, I am employed as a software engineer at 1985 Web Solutions, where I am one of the key developers contributing to a live SaaS project.
 </p>
 
-<p align="center">
+<p align="left">
 My responsibilities include improving performance, creating new features based on client requirements, and resolving bugs to enhance product quality. I actively engage with clients through weekly meetings and innovate based on their feedback.
 </p>
 
-<p align="center">
+<p align="left">
 Previously, as a full-stack web developer, I accumulated over 1000 hours of coding experience, 300 hours in data structures and algorithms, and 100 hours in soft skills.
 </p>
 
-<p align="center">
+<p align="left">
 During my time at Masai, a practical-based coding school with a military-style curriculum (11-11-6) over eight months, I demonstrated discipline and passion for web development.
 </p>
 
-<p align="center">
+<p align="left">
 I built 50+ mini-projects and 5 major projects (2 individual, 3 group), gaining insights into real-world applications, teamwork, planning, and communication.
 </p>
 
-<p align="center">
+<p align="left">
 I am eager to apply my skills and continue growing while contributing to impactful projects.
 </p>
 

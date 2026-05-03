@@ -98,10 +98,7 @@ I am eager to apply my skills and continue growing while contributing to impactf
   </a>
   <a href="https://github.com/akash-singha-3558">
     <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://akash-singha-3558.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Codecov&logoColor=white"/>
-  </a>
+  </a
 </p>
 
 ---
